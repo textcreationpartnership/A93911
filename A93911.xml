@@ -1,0 +1,1531 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The artificers plain scale, or, The carpenters new rule in two parts ... : also, how to take heights and distances severall wayes, and to draw the plot of a town or city / by Thomas Stirrup, Philomat.</title>
+            <author>Stirrup, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 73 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93911</idno>
+            <idno type="STC">Wing S5686</idno>
+            <idno type="STC">Thomason E1375_3</idno>
+            <idno type="EEBO-CITATION">50811913</idno>
+            <idno type="OCLC">ocm 50811913</idno>
+            <idno type="VID">169874</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93911)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169874)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 180:E1375[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The artificers plain scale, or, The carpenters new rule in two parts ... : also, how to take heights and distances severall wayes, and to draw the plot of a town or city / by Thomas Stirrup, Philomat.</title>
+                  <author>Stirrup, Thomas.</author>
+               </titleStmt>
+               <extent>[16], 119, [1] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. &amp; W. Leybourn, for Thomas Pirrepont, at the Sun in Pauls Church yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Numerous errors in pagination.</note>
+                  <note>Annotation on Thomason copy: "Apr: 3".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>The first, shewing how to measure all superficies and solids, as timber, stone, board, glasse, &amp;c. geometrically, without the help of arithmetick, it being a new way not heretofore practised -- The second shewing how to measure board and timber instrumentally upon the scale it selfe, without arithmetick or geometry, but what is common to every man.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mensuration --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169874:1" rendition="simple:additions"/>
+            <p>THE ARTIFICERS PLAIN SCALE: OR, The <hi>Carpenters</hi> new Rule. In two Parts. The firſt, ſhewing how to meaſure all Superficies and Solids, as Timber, Stone, Board, Glaſſe, &amp;c. Geometrically, without the help of <hi>Arithmetick:</hi> it being a new way not heretofore practiſed. The ſecond ſhewing how to meaſure Board and Timber Inſtrumentally, upon the Scale it ſelfe, without <hi>Arithme<g ref="char:EOLhyphen"/>tick</hi> or <hi>Geometry,</hi> but what is common to every man. ALSO, How to take Heights and Diſtances ſeverall wayes, and to draw the Plot of a Town or City,</p>
+            <p>By <hi>Thomas Stirrup.</hi> Philomat,</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>R.</hi> &amp; <hi>W. Leybourn,</hi> for <hi>Thomas Pirrepont,</hi> at the <hi>Sun</hi> in <hi>Pauls</hi> Church yard. 1651.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:169874:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of the measurement of altitude or height</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:169874:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169874:3"/>
+            <pb facs="tcp:169874:3"/>
+            <head>To THE READER.</head>
+            <opener>
+               <salute>Gentle Reader:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough ma<g ref="char:EOLhyphen"/>ny excellent both in <hi>Arith<g ref="char:EOLhyphen"/>metick</hi> &amp; <hi>Geo<g ref="char:EOLhyphen"/>metry,</hi> upon infallible grounds have put forth divers moſt certain
+<pb facs="tcp:169874:4"/> and ſufficient rules for the meaſuring of <hi>board</hi> &amp; <hi>tim<g ref="char:EOLhyphen"/>ber,</hi> yet very few of our common <hi>Artificers</hi> have been furthered thereby, be<g ref="char:EOLhyphen"/>cauſe they have not the art of <hi>Arithmetick,</hi> upon which moſt of their rules depend.</p>
+            <p>The conſideration of which, with the aptneſſe which I ſee in ſome of them for the raiſing of a <hi>Perpen<g ref="char:EOLhyphen"/>dicular,</hi> and the drawing of <hi>a Parallel Line,</hi> upon which moſt of this <hi>Book</hi> depends:
+<pb facs="tcp:169874:4"/> this, I ſay, hath been the cauſe which hath moved me to give them ſome rules <hi>Geometrical,</hi> whereby they may meaſure both <hi>board</hi> &amp; <hi>timber,</hi> without the help of <hi>Arithmetick.</hi>
+            </p>
+            <p>Therefore to thy view, <hi>Gentle Reader,</hi> that want<g ref="char:EOLhyphen"/>eth the art of <hi>Arithmetick,</hi> doe I prefer this ſhort and plain <hi>Treatiſe,</hi> wherein, &amp; in the beginning, is decla<g ref="char:EOLhyphen"/>red the infallible grounds upon which the whol <hi>work</hi>
+               <pb facs="tcp:169874:5"/> doth depend, &amp; then doth follow the applying of thoſe rules to the preſent purpoſe, with the declara<g ref="char:EOLhyphen"/>tion of three <hi>tables,</hi> one for <hi>Board,</hi> and one for <hi>ſquare Timber,</hi> and the third for <hi>round Timber,</hi> very fit for all ſuch as ſtand in need thereof, and yet want both <hi>Inſtruments</hi> and <hi>Arithme<g ref="char:EOLhyphen"/>tick,</hi> whereby to uſe the ſame.</p>
+            <p>
+               <hi>In the ſecond Part of this</hi> Book <hi>is ſhewed a ſecond
+<pb facs="tcp:169874:5"/> way whereby you may mea<g ref="char:EOLhyphen"/>ſure</hi> Board <hi>and</hi> Timber <hi>by</hi> Rule <hi>and</hi> Compaſſe <hi>only, without drawing of</hi> lines: <hi>&amp; alſo how to take</hi> Heights <hi>and</hi> Diſtances <hi>ſeveral ways without</hi> Inſtrument, <hi>all which are grounded upon in<g ref="char:EOLhyphen"/>fallible principles</hi> Geome<g ref="char:EOLhyphen"/>tricall.</p>
+            <p>Thus deſiring thee to accept of this little <hi>Booke</hi> as a taſte of my good will towards thee, which I wiſh even ſo to further thee, as
+<pb facs="tcp:169874:6"/> I know it ſufficient for the true meaſuring both of <hi>Board</hi> and <hi>Timber.</hi>
+            </p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:169874:6"/>
+            <head>THE CONTENTS.</head>
+            <div n="1" type="part">
+               <list>
+                  <item>THe meaning of certain terms of Geometry uſed in this Book. <hi>Page</hi> 1</item>
+                  <item>How to raiſe a perpendicular on any part of a right line given. <hi>Page</hi> 5</item>
+                  <item>How to let fall a perpendicular from a point aſſigned, to a line given. <hi>Page</hi> 7</item>
+                  <item>To a line given to draw a parallel line at any diſtance required. <hi>Page</hi> 8</item>
+                  <item>To perform the former propoſition at a diſtance required, and by a point limited. <hi>Page</hi> 10</item>
+                  <item>Having two lines given to find a third proportionall line to them. <hi>Page</hi> 12</item>
+                  <item>Having three lines given to finde a fourth proportionall line to them. <hi>Page</hi> 14</item>
+                  <pb facs="tcp:169874:7"/>
+                  <item>The making of a Rule or Scale, for the meaſuring of Board and Timber. <hi>Page</hi> 17</item>
+                  <item>How any Board may be meaſured Ge<g ref="char:EOLhyphen"/>ometrically. <hi>Page</hi> 20</item>
+                  <item>How Timber may be meaſured Geo<g ref="char:EOLhyphen"/>metrically. <hi>Page</hi> 26</item>
+                  <item>Of Round Timber. <hi>Page</hi> 33</item>
+                  <item>How Triangled Timber, or Timber which hath but three ſides may be mea<g ref="char:EOLhyphen"/>ſured. <hi>Page</hi> 42</item>
+                  <item>How Timber whoſe end is a Rhombus is to be meaſured. <hi>Page</hi> 45</item>
+                  <item>How Timber whoſe end is a Rhom<g ref="char:EOLhyphen"/>boiades is meaſured. <hi>Page</hi> 47</item>
+                  <item>How to meaſure Timber whoſe end is a Trapeſiam. <hi>Page</hi> 49</item>
+                  <item>How to meaſure Timber whoſe ſides are many, as 5, 6, 7, 8, 9, 10, or more, ſo they be all equall. <hi>Page</hi> 51</item>
+                  <item>How to finde the length of a foot of Board, at any breadth given. <hi>Page</hi> 54</item>
+                  <item>The breadth and thickneſſe of a piece of Timber given, to finde how much in length ſhall make a foot of ſquare Tim<g ref="char:EOLhyphen"/>ber
+<pb facs="tcp:169874:7"/> at that breadth and thickneſſe. <hi>Page</hi> 56</item>
+                  <item>How to finde a mean proportionall line between two lines given. <hi>Page</hi> 66</item>
+               </list>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond Part.</head>
+               <list>
+                  <item>OF the Scale, and the graduations or diviſions thereof, and how they are to be uſed. <hi>Page</hi> 71</item>
+                  <item>To divide a line given, into any number of equall parts. <hi>Page</hi> 73</item>
+                  <item>To take any part or parts of a line <hi>Page</hi> 74</item>
+                  <item>A line conteining any part or parts of a line, thereby to finde the whole line. <hi>Page</hi> 75</item>
+                  <item>A line being given, conteining any number of equall parts, to cut off from it ſo many as ſhall be required. <hi>Page</hi> 77</item>
+                  <item>To lay down ſodainly two, three, or more lines in proportion required. <hi>Page</hi> 78</item>
+                  <item>In a Map or Plot, the length of any line being known thereby to find the
+<pb facs="tcp:169874:8"/> length of all or any of the reſt <hi>Page</hi> 80</item>
+                  <item>Unto two lines given, to finde a third in proportion. <hi>Page</hi> 82</item>
+                  <item>Unto three Lines given, to finde a fourth in proportion, that is, to perform the <hi>Rule of Three</hi> in Lines. <hi>Page</hi> 84</item>
+                  <item>To divide a line given into two ſuch parts, bearing proportion one to the other as two numbers given. <hi>Page</hi> 86</item>
+                  <item>To meaſure flat Meaſure. <hi>Page</hi> 87</item>
+                  <item>To meaſure Board that is broader at one end than at the other. <hi>Page</hi> 91</item>
+                  <item>To finde how many ſquare feet any whole Board conteineth, without find<g ref="char:EOLhyphen"/>ing how much in length makes a foot <hi>Page</hi> 93</item>
+                  <item>To meaſure Board that is broader at the one end then at the other, in the ſame manner. <hi>Page</hi> 95</item>
+                  <item>To meaſure timber. <hi>Page</hi> 97</item>
+                  <item>To meaſure timber that is broader at one end than at the other. <hi>Page</hi> 100</item>
+                  <item>How Perpendicular heights may be found without either Inſtrument or A<g ref="char:EOLhyphen"/>rithmetick. <hi>Page</hi> 101</item>
+                  <pb facs="tcp:169874:8"/>
+                  <item>How to take the altitude or height of a building by a bowl of water. <hi>Page</hi> 105</item>
+                  <item>How to take the altitude of a Buil<g ref="char:EOLhyphen"/>ding by a line and plummet the Sun ſhi<g ref="char:EOLhyphen"/>ning. <hi>Page</hi> 107</item>
+                  <item>How to finde the altitude of a Buil<g ref="char:EOLhyphen"/>ding by two ſticks joyned in a right an<g ref="char:EOLhyphen"/>gle. <hi>Page</hi> 109</item>
+                  <item>To finde a Diſtance by the two ſticks joyned ſquare. <hi>Page</hi> 112</item>
+                  <item>How to deſcribe a <hi>Town</hi> or <hi>City</hi> ac<g ref="char:EOLhyphen"/>cording to <hi>Chorographicall</hi> proportion, by the help of a plain glaſſe. <hi>Page</hi> 116</item>
+               </list>
+            </div>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:169874:9"/>
+            <head>An Advertiſement To the READER.</head>
+            <p>FOraſmuch as throughout this whole Book, there is mention made of <hi>Rules</hi> and <hi>Scales,</hi> the making whereof is different from thoſe which are vulgarly made and ſold: if any therefore be deſirous to have any particular Rule mentioned in this book, or one Rule to performe all the work in generall, he may have them exactly made by Maſter <hi>Anthony Thompſon</hi> in <hi>Hoſier lane,</hi> neer <hi>Smith<g ref="char:EOLhyphen"/>field.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="part">
+            <pb n="1" facs="tcp:169874:9"/>
+            <head>THE ARTIFICERS Plain Scale.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. The meaning of certain terms of <hi>Geometry</hi> uſed in this Book.</head>
+               <p>
+                  <seg rend="decorInit">B</seg>Ecauſe all Carpenters or other Artificers, in their Trade or Calling, doe in a manuer (and according to their fa<g ref="char:EOLhyphen"/>ſhion) uſe ſome kind of Geometry, although themſelves be
+<pb n="2" facs="tcp:169874:10"/> ignorant thereof, therefore I did con<g ref="char:EOLhyphen"/>ſider that they might bee ſooner brought to meaſure Board and Tim<g ref="char:EOLhyphen"/>ber by that art of Geometry (ſeeing they have their Rule and Compaſſes by them) then by Arithmetick, being but few of them can write, and there<g ref="char:EOLhyphen"/>fore uncapable of that art: and of them few which can write, not one in ten that hath Arithmetick, which is the only cauſe (as I ſuppoſe) that moſt of them are ſo ignorant in this art (which doth ſo much concern them) notwith<g ref="char:EOLhyphen"/>ſtanding, all thoſe excellent Rules which have been formerly delivered by the learned: But now to our in<g ref="char:EOLhyphen"/>tended purpoſe.</p>
+               <p>SEeing I ſhall have occaſion in this Work to uſe ſome terms of Geometry, by which I may with more eaſe deliver, and you with more plainneſſe perceive my minde in theſe things: I have therefore ſet down the
+<pb n="3" facs="tcp:169874:10"/> meaning, as plainly as I can, of ſome Geometricall terms, which moſt ſerve for our preſent purpoſe.</p>
+               <list>
+                  <item>1 An <hi>Angle</hi> is nothing elſe but a corner, made by the meeting of two lines (for I ſpeak not of ſolid angles.)</item>
+                  <item>2 A <hi>right Angle</hi> (which we call a ſquare angle) is that whoſe two lines comprehending or making the angle, ſtand perpendicular or plumb the one to the other.</item>
+                  <item>3 A <hi>Perpendicular line</hi> is that which ſtands plumb upright upon another, leaning neither the one way nor the other.</item>
+                  <item>4 A <hi>Superficies</hi> is that which hath only Length and Breadth, and no Thickneſſe at all.</item>
+                  <item>5 A <hi>Solid,</hi> or a <hi>Body,</hi> is that which hath Length, Breadth, and Thick<g ref="char:EOLhyphen"/>neſſe.</item>
+                  <item>6 <hi>Parallels</hi> are thoſe lines that dif<g ref="char:EOLhyphen"/>fer every where alike, or are not nee<g ref="char:EOLhyphen"/>rer together in one place then another.</item>
+                  <pb n="4" facs="tcp:169874:11"/>
+                  <item>7 A <hi>Figure</hi> is any kinde of Su<g ref="char:EOLhyphen"/>perficies or Solid that is bounded a<g ref="char:EOLhyphen"/>bout, as <hi>Triangles, Squares, Circles, Globes, Cones, Priſmes,</hi> and the reſt.</item>
+                  <item>8 The <hi>Baſe</hi> of a Figure is any ſide thereof upon which it may be ſuppo<g ref="char:EOLhyphen"/>ſed to ſtand; or if you take any ſide of a Figure for the Ground or Bottome, or lower part thereof, that ſame is the Baſe.</item>
+                  <item>9 The height of a Figure is the length of a Perpendicular or plumb line, falling from the top thereof to the Baſe or bottome thereof.</item>
+               </list>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="5" facs="tcp:169874:11"/>
+               <head>CHAP. II. How to raiſe a <hi>Perpendi<g ref="char:EOLhyphen"/>cular</hi> on any part of a right line given.</head>
+               <p>LEt AB be a right line given, and let C be a point therein, whereon I would raiſe a perpen<g ref="char:EOLhyphen"/>dicular, open the Compaſſes to any convenient diſtance, and ſetting one foot in the point C, with the other mark on either ſide thereof, the equall diſtances CE, and CF: then opening your Compaſſes to any convenient wider diſtance, with one foot in the points E and F, ſtrike two arch lines, croſſing each other as in D, from whence draw the line DC, which is
+<pb facs="tcp:169874:12"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:169874:12"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:169874:13"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:169874:13"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:169874:14"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:169874:14"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:169874:15"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:169874:15"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:169874:16"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:169874:16"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="4" facs="tcp:169874:17"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="5" facs="tcp:169874:17"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:169874:18"/> a perpendicular to AB, or as we call it, a ſquare line to the line AB.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of perpendicular lines (AB and CD)</figDesc>
+               </figure>
+               <p>Or you may from the given point C, prick out any five equal diſtances, and opening your Compaſſes to 4 of them, with one foot in C, ſtrike an arch or piece of a Circle towards N, then opening your Compaſſes to all 5 diviſions, with one foot in 3, croſs the ſame arch line in N, from whence draw the line NC, which is a perpen<g ref="char:EOLhyphen"/>dicular to the line AC, as before, for if 3 lines be joyned together, ſo they be in ſuch proportion, as 3, 4, and 5; they will make a right angle.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="7" facs="tcp:169874:18"/>
+               <head>CHAP. III. How to let fall a <hi>Perpendi<g ref="char:EOLhyphen"/>cular</hi> from a point aſsign<g ref="char:EOLhyphen"/>ed, to a line given.</head>
+               <p>LEt the point given be D in the former Chapter, and let the line whereon it ſhould fall be AB, open the Compaſſes to any conveni<g ref="char:EOLhyphen"/>ent diſtance, &amp; ſetting one foot in the point D, make an arch or piece of a Circle with the other foot, till it cut the line AB twice, that is at E and F, then finde the middle between thoſe two Interſections, and from that mid<g ref="char:EOLhyphen"/>dle, draw a line to the point D (which is the point given) and that line ſhal be perpendicular or plumb from the point D to the line AB, as was required.</p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="8" facs="tcp:169874:19"/>
+               <head>CHAP. IV. To a line given, to draw a parallel line, at any di<g ref="char:EOLhyphen"/>ſtance required.</head>
+               <p>SUppoſe the line given to be AB, unto which I muſt draw a paral<g ref="char:EOLhyphen"/>lel.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of parallel lines (AB and CD)</figDesc>
+               </figure>
+               <p>Open your Compaſſes to the di<g ref="char:EOLhyphen"/>ſtance
+<pb n="9" facs="tcp:169874:19"/> required, and ſetting one foot of your Compaſſes in the end A, ſtrike an arch on that ſide the given line whereon the parallel is to be drawn, as the arch C, then doe the like in the end B, as the arch line D, then draw the line CD, ſo as it may but touch or be a touch line to theſe two arches C and D, and this line ſo drawn ſhall be parallel to the line AB, as was re<g ref="char:EOLhyphen"/>quired.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="10" facs="tcp:169874:20"/>
+               <head>CHAP. V. To perform the former pro<g ref="char:EOLhyphen"/>poſition at a diſtance re<g ref="char:EOLhyphen"/>quired, and by a point li<g ref="char:EOLhyphen"/>mited.</head>
+               <p>ADmit AB in the former Chap<g ref="char:EOLhyphen"/>ter, to be a right line given, whereunto it is required to have a parallel line drawn at the di<g ref="char:EOLhyphen"/>ſtance, and by the point C.</p>
+               <p>Place therefore one foot of your Compaſſes in C, from whence take the ſhorteſt diſtance to the line AB, as CA, at which diſtance, with one
+<pb n="11" facs="tcp:169874:20"/> foot in the end B, with the other ſtrike the arch line D, by the extream part of which arch line D, and the point C, draw the line CD, which is parallel to the given line AB, which was required.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of parallel lines (AB and CD)</figDesc>
+               </figure>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="12" facs="tcp:169874:21"/>
+               <head>CHAP. VI. Having two lines given, to finde a third proportionall line to them.</head>
+               <p>THe two lines given are A and B, and it is required to finde a third line, which ſhall bee in ſuch proportion to A, as A is to B. Make any angle whatſoever, as the angle HEC.</p>
+               <p>Here note, that an angle is always repreſented by three letters, whereof the middle letter repreſents the angle intended.</p>
+               <p>Then place the line A, from the angle E to D, and the line B from E to F, and draw the line DF.</p>
+               <pb n="13" facs="tcp:169874:21"/>
+               <p>Place alſo the line A from E to H, and laſtly, by the 4 Chapter, from the point H, draw the line HC parallel to FD.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of proportional lines (A, B, and EC)</figDesc>
+               </figure>
+               <p>So ſhall EC be a third proportio<g ref="char:EOLhyphen"/>nall line to the two given lines, as was required.</p>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="14" facs="tcp:169874:22"/>
+               <head>CHAP. VII. Having three lines given to finde a fourth proporti<g ref="char:EOLhyphen"/>onall line to them.</head>
+               <p>THE three lines given are A B and C, and let it be requi<g ref="char:EOLhyphen"/>red to finde a fourth line, which ſhall have ſuch proportion to A, as B hath to C, make any angle, as DGK, now ſeeing the line C hath the ſame proportion to the linne B, as the line A to the line ſought for, therefore place the line C from G to H, and the line B from G to F, then draw the line FH, now place the line A from G to I, by which
+<pb n="15" facs="tcp:169874:22"/> point I draw the line EI parallel to FH, till it cutteth DG in E, ſo have you EG the fourth proporti<g ref="char:EOLhyphen"/>onall line required, which is 24.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of proportional lines (A, B, C, and EG)</figDesc>
+               </figure>
+               <p>For as the line 12, is to the line 16, ſo is the line 18, to the line 24, which is the length of the line we ſought for.</p>
+               <p>Theſe two laſt Chapters, would I have you diligently to conſider, and throughly to learne, becauſe it is the ground-work of that which I
+<pb n="16" facs="tcp:169874:23"/> intend to deliver in this Booke: which being well underſtood, will bring much pleaſure and profit to the unlearned Artificer, for whoſe ſake this was written.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of proportional lines (A, B, C, and EG)</figDesc>
+               </figure>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="17" facs="tcp:169874:23"/>
+               <head>CHAP. VIII. The making of a Rule or Scale, for the meaſuring of Board and Timber.</head>
+               <figure>
+                  <figDesc>depiction of a rule or scale</figDesc>
+               </figure>
+               <p>This line thus divided, is called a Scale; which is no other thing, but a right line divided into any number of equall parts, be they greater or leſſer, wider or narrower, ſo they be equall: every part, or diviſion of which line, may ſtand for a mile, a rod, a yard, a foot, an inch, or any other kinde of meaſure what you will, or have uſe of: and this line I would have you uſe, in giving up the Content of either Board, or Timber.</p>
+               <p>I have deſcribed this Scale but to 4 inches; but you may thereby per<g ref="char:EOLhyphen"/>ceive what I mean by the whole Rule.</p>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="20" facs="tcp:169874:25"/>
+               <head>CHAP. IX. How any Board may be meaſured Geometrically.</head>
+               <p>IF you do well underſtand that which hath been delivered in the ſeventh Chapter, you may thereby meaſure any Board with eaſe and de<g ref="char:EOLhyphen"/>light; for as there is three numbers, or three lines given, whereby the fourth proportionall is found: ſo in every Board, there is three lines, or numbers (which you will) which be given us, whereby, we may by the ſeventh Chapter finde a fourth proportionall line or number: which is the number of feet, conteined in the whole board.</p>
+               <pb n="21" facs="tcp:169874:25"/>
+               <p>The firſt of the three Numbers given, is always 12, which is the ſide of a ſquare foot of Board, or the ſide of a cubicall foot of Timber;</p>
+               <p>The ſecond number is alwayes the number of feet, conteined in the length of the Board, the third number is alwayes the number of inches con<g ref="char:EOLhyphen"/>teined in the breadth of the Board.</p>
+               <p>And the fourth number which is here ſought for, will alwayes be the number of ſquare feet, conteined in the whole Board: the proportion will be always thus.
+<list>
+                     <item>As 12 to the length in Feet:</item>
+                     <item>So the bredth in inches,</item>
+                     <item>To the Content in Feet.</item>
+                  </list>
+               </p>
+               <p>And ſeeing examples teacheth better then many words: therefore let us ſuppoſe the three lines given us in the ſeventh Chapter, to be three ſuch numbers as here we have ſpoken of.</p>
+               <pb n="22" facs="tcp:169874:26"/>
+               <p>And therefore let the firſt line C, be a number of 12, taken from ſome Scale with your Compaſſes, and placed from G to H, which 12 doth ſignifie 12 inches, which is the ſide of a ſquare foot of Board.</p>
+               <p>And let the ſecond line B, be a number of 16, taken from the ſame Scale, and placed from the angle at G unto F, and draw theline FH, and this number of 16 doth ſignifie 16 feet, the length of a ſuppoſed Board.</p>
+               <p>And ſo let the third line A, be a number of 18, taken from the ſame Scale and placed from G to I, and this number of 18 doth ſignifie 18 inches; the breadth of the ſup<g ref="char:EOLhyphen"/>poſed board: now from the point I, by the fifth Chapter, draw the line IE parallel to FH, till it cutteth EG in E: So have you EG the fourth proportionall line required; which being taken between your Compaſſes, and aplyed to your
+<pb n="23" facs="tcp:169874:26"/> Scale, will ſhew it to be 24, and ſo many ſquare feet are in that Board, whoſe length is 16 foot, and breadth is 18 inches.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of a board (lines AB and CB)</figDesc>
+               </figure>
+               <pb n="25" facs="tcp:169874:27"/>
+               <p>And here note, that when you have any odde parts of an inch in the breadth of your board you muſt take the like parts of one diviſi<g ref="char:EOLhyphen"/>on from your Scale, more then your even parts was: and ſo muſt you doe when you have odde parts of a foot in the length of your Board: as for example, ſuppoſe a Board to be eight foot, and three quarters long; now for to ſet down this length you muſt take from your Scale eight whole diviſions, and three quarters of one; and ſo apply them to your uſe: and this muſt be noted throughout this Booke.</p>
+               <p>And here note alſo, that if your Board be taper grown, that is, wider at one end then at the other; then meaſure the breadth thereof in the middle, and with that wideneſs pro<g ref="char:EOLhyphen"/>ceed according to your Rules given:</p>
+               <p>And this may very well ſuffice for Timber that doth taper alſo.</p>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="26" facs="tcp:169874:28"/>
+               <head>CHAP. X. How Timber may be mea<g ref="char:EOLhyphen"/>ſured geometrically.</head>
+               <p>THE meaſuring of Timber doth little differ from mea<g ref="char:EOLhyphen"/>ſuring of Board, by the laſt Chapter, but only in meaſuring of Timber we have a double work; but the laſt Chapter well underſtood, will give light ſufficient hereunto.</p>
+               <p>Therefore by the laſt Chapter, firſt, meaſure how many ſquare feet of flat meaſure there is in one of the ſides of your Timber, as if it was a board by it ſelf, which being done, you have three numbers given you, whereby you may by the ſeventh Chapter finde a fourth in propor<g ref="char:EOLhyphen"/>tion unto them, which fourth num<g ref="char:EOLhyphen"/>ber,
+<pb n="27" facs="tcp:169874:28"/> is the number of Cubicall feet conteined in that piece of Timber.</p>
+               <p>The Firſt number is always 12.</p>
+               <p>The Second is always the number of ſquare feet conteined in one of the ſides, I mean, of flat meaſure.</p>
+               <p>The Third, is always the number of inches conteined in the thickneſs of the Timber: and this will be always the proportion for this work.</p>
+               <p>
+                  <hi>Firſt,</hi>
+                  <list>
+                     <item>As 12 is to the length in feet, ſo is the breadth in inches,</item>
+                     <item>To the ſuperficiall content, of that ſame ſide.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Secondly,</hi>
+                  <list>
+                     <item>As 12 to this ſuperficiall content,</item>
+                     <item>So is the thickneſs in inches, to the ſolid content in feet,</item>
+                  </list>
+               </p>
+               <p>As for example, ſuppoſe the fi<g ref="char:EOLhyphen"/>gure A to be a piece of Timber to be meaſured, whoſe length is 8 foot, and breadth 18 inches, and thickneſs 14 inches.</p>
+               <pb n="28" facs="tcp:169874:29"/>
+               <figure>
+                  <figDesc>diagram of the measurement of a block (lines BE and HE)</figDesc>
+               </figure>
+               <p>Now draw two lines, ſo as they may make any angle as the lines BE, and HE, meeting in the angle E, this being done, firſt, place 12 (which is the ſide of a Cubicall foot, of Timber) from E to F, then place 8 (the length of your piece in feet) from E to D, and draw the line DF,
+<pb n="29" facs="tcp:169874:29"/> and then place 18 (the bredth of your piece in inches) from E to H, and then by the 5 Chapter, draw the line HC, parallel to DF, till it cut<g ref="char:EOLhyphen"/>teth BE, in C: So ſhall CE be the number of feet of flat meaſure, con<g ref="char:EOLhyphen"/>teined in the broadeſt ſide of the piece of Timber.</p>
+               <p>Thus far we have proceeded ac<g ref="char:EOLhyphen"/>cording to the laſt Chapter; and now we have three numbers more given us, whereby we may finde a fourth proportionall unto them.</p>
+               <p>Wherefore, firſt, we have 12 already placed, from E to F, ſecondly, we have the ſuperficial content of the broadeſt ſide, already placed from E to C: there fore draw the line FC, and thirdly, we have 14 the number of inches con<g ref="char:EOLhyphen"/>teined in the thickneſs, which we muſt place from E to G: and laſtly, from the point G, by the fifth Chap. draw the line GB parallel to FC, till it cutteth BE at B: So ſhal BE be the number of
+<pb n="30" facs="tcp:169874:30"/> cubicall feet conteined in that piece of Timber noted with the Letter A, which being taken between your Compaſſes, and applyed unto your Scale, will reach unto 14, and ſo many feet is in that piece.</p>
+               <p>Now here I will give you one ex<g ref="char:EOLhyphen"/>ample, of a piece of Timber hewed juſt ſquare: Let the figure B be a piece of Timber ſo hewed, whoſe length is 9 foot. And let it be 8 inches ſquare, now having made any angle, as the angle ADC, firſt place 12 from D to C.</p>
+               <p>And 9 foot the length, from D to A, and draw the line CA, then place 8, the thickneſſe of one of the ſides, from D to F, and by the 5 Chapter, draw the line FE parallel to CA, till it cuteth DA, at E, ſo ſhall ED, be the ſuperficiall content, of one of the ſides, thus far according to the 9th. Chapter, as if it had been a board.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of a block (lines AE and CE)</figDesc>
+               </figure>
+               <p>This Chapter would I have you well to conſider, becauſe I do not in<g ref="char:EOLhyphen"/>tend to repeat, what I have heare de<g ref="char:EOLhyphen"/>livered, but only deſcribe unto you, the end of ſome pieces, according to their formes, and ſo give you ſome Rules, for to meaſure them by this Chapter.</p>
+            </div>
+            <div n="11" type="chapter">
+               <pb n="33" facs="tcp:169874:31"/>
+               <head>CHAP. XI. Of round Timber</head>
+               <div type="section">
+                  <p>HEre firſt I would have you to underſtand, what the Cir<g ref="char:EOLhyphen"/>cumference, the Center and Diameter of a Circle is, the Circum<g ref="char:EOLhyphen"/>ference is the line incompaſſing the Circle, the Center is the point in the middeſt thereof, the Diameter is a right line paſſing by the Center through the whole Circle, and divi<g ref="char:EOLhyphen"/>deth the ſame into two equal parts, ei<g ref="char:EOLhyphen"/>ther halfe of which Diameter is cal<g ref="char:EOLhyphen"/>led the Semidiameter.</p>
+                  <p>Now having found the Circum<g ref="char:EOLhyphen"/>ference of a round piece of Timbe, by girding it about with ſome line, I thinke it is heare needfull, to give you
+<pb n="34" facs="tcp:169874:32"/> a Rule, for the finding of the Diame<g ref="char:EOLhyphen"/>ter of the ſame piece.</p>
+                  <figure>
+                     <figDesc>diagram of the measurement of a circle</figDesc>
+                  </figure>
+                  <p>Now the Circumference and Di<g ref="char:EOLhyphen"/>ameter being found, you may finde the ſolid content, after this manner. Firſt, take one halfe of the Circumfe<g ref="char:EOLhyphen"/>rence, for the breadth of your piece, and one halfe of the Diameter for the thickneſſe thereof, according to which breadth, and thickneſſe, you may pro<g ref="char:EOLhyphen"/>ceed in all things, (by the former part of the tenth Chapter) as if it were an unequall ſquared piece of Timber, as in the figure A, take 22 inches, (the Circumference of the piece) for the breadth thereof.</p>
+                  <pb n="36" facs="tcp:169874:33"/>
+                  <p>
+                     <hi>Or take a quarter of 44 that is 11 for the one ſide, and the whole 14 for the other.</hi>
+                  </p>
+                  <p>And take 7, which is the halfe of 14 the Diameter, for the thickneſſe thereof, and ſo with this breadth, and thickneſſe, proceed in all things accor<g ref="char:EOLhyphen"/>ding to the former part of the tenth Chapter.</p>
+               </div>
+               <div type="section">
+                  <head>Of the half-round, or quar<g ref="char:EOLhyphen"/>ter or any other portion or part of a Circle.</head>
+                  <p>FOr this halfe Circle, take halfe the arch line CDB, which is 11, for the breadth of your piece.</p>
+                  <p>And one halfe the Diameter, which is 7 for the thickneſſe thereof, and proceeding with this breadth and thickneſſe, by the tenth Chapter, you ſhall finde the content.</p>
+                  <figure>
+                     <figDesc>diagram of the measurement of a semi-circle (CDB)</figDesc>
+                  </figure>
+                  <p>Now having a piece of Timber, whoſe end ſhall be like unto this por<g ref="char:EOLhyphen"/>tion of a Circle, noted with theſe let<g ref="char:EOLhyphen"/>ters ABCD, before we can give the content thereof, it will be needfull to to finde out the Center, which for to doe work as followeth.</p>
+               </div>
+               <div type="section">
+                  <head>A Segment of a Circle being given, to finde out the Center, and conſequently the Diameter, and ſo if need be, the whole Circle.</head>
+                  <figure>
+                     <figDesc>diagram of the measurement of a circular segment (ABC)</figDesc>
+                  </figure>
+                  <p>The center being found, draw the lines EA and EC, and caſt up the whole figure ABCE, as before is ſhew'd, and then by the next Chapter, finde the content of the Triangle ACE, and take it from the content of the whole figure ABCE, and that which is lift, ſhall be the content, of the figure ABCD, as was required.</p>
+                  <p>By this Rule, (obſerved with diſ<g ref="char:EOLhyphen"/>cretion,) may all manner of Segments, or parts of a Circle, whether greater or leſſer then a Semicircle, be eaſily meaſured, without further inſtruction.</p>
+                  <p>Hithereto have wee ſhewed the meaſuring of ſuch Timber, as is moſt in uſe, that is to ſay, of equal ſquared, and alſo of unequall ſquared Timber,
+<pb n="41" facs="tcp:169874:35"/> ſo likewiſe have we ſhewed, how round Timber, and its parts, may be meaſured, by the former Rules. ſo So now will I ſhew how ſome pieces of extraordinary formes, may be brought to be meaſured, by the former Rules.</p>
+                  <figure>
+                     <figDesc>diagram of the measurement of a circular segment (ABC)</figDesc>
+                  </figure>
+               </div>
+            </div>
+            <div n="12" type="chapter">
+               <pb n="42" facs="tcp:169874:36"/>
+               <head>CHAP. XII. How triangled Timber, or Timber which hath but three ſides, may be mea<g ref="char:EOLhyphen"/>ſured</head>
+               <p>TRiangles, are made of ſtraight lines, o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> crooked, or of both to<g ref="char:EOLhyphen"/>gether, but I ſpeake only of Right lined Triangles, which is no<g ref="char:EOLhyphen"/>thing elſe, but a figure made of three right lines, as the figure ABC.</p>
+               <p>Triangles are divers, both in re<g ref="char:EOLhyphen"/>ſpect of their ſides and angles, and may be meaſured divers wayes, but let this one way ſerve for all: take half of the baſe, and ſuppoſe it to be one ſide of a ſquared piece of Timber; &amp; take
+<pb n="43" facs="tcp:169874:36"/> the whole hieght, or perpendicular, for the other ſide of the ſame piece, and ſo meaſure it by the former part of the tenth Chapter, in all reſpects, as there is ſhewed.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of a triangle (ABC)</figDesc>
+               </figure>
+               <p>Let the Triangle ABC, be the end of a piece of Timber to be mea<g ref="char:EOLhyphen"/>ſured, which hath but only three ſides.</p>
+               <pb n="44" facs="tcp:169874:37"/>
+               <figure>
+                  <figDesc>diagram of the measurement of a triangle (ABC)</figDesc>
+               </figure>
+            </div>
+            <div n="13" type="chapter">
+               <pb n="45" facs="tcp:169874:37"/>
+               <head>CHAP. XIII. How Timber, whoſe end is a <hi>Rhombus,</hi> (or Diamond form) is to be meaſured.</head>
+               <p>A <hi>Rhombus</hi> (or Diamond) is a fi<g ref="char:EOLhyphen"/>gure of foure equall ſides) but no right Angles, ſuch as is the figure ABCD, for the meaſuring whereof, obſerve this example. Let the ſaid figure ABCD, be the end of a piece of Timber to be meaſured: now taking the length of the ſide or baſe AB, which is 14 inches for one of the ſides of a ſquared piece of tim<g ref="char:EOLhyphen"/>ber, and the length of the perpendicu<g ref="char:EOLhyphen"/>lar DE, which wil be found to be 12,
+<pb n="46" facs="tcp:169874:38"/> and ſomething better then the eighth part of one more, for the other ſide
+<figure>
+                     <figDesc>diagram of the measurement of a rhombus (ABCD)</figDesc>
+                  </figure> of the ſame piece, with which two ſides, as if it were an unequall ſquared piece of timber, proceed in all things, according to the former part of the tenth Chapter.</p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="47" facs="tcp:169874:38"/>
+               <head>CHAP. XV. How Timber whoſe end is a <hi>Rhomboides</hi> (or Dia<g ref="char:EOLhyphen"/>mond-like) is meaſured.</head>
+               <p>A <hi>Rhomboides</hi> (or Diamond-like) is a figure, whoſe oppoſite ſides, and oppoſite Angles, are only equall, and it hath no right Angles. Such as is the figure FGHI, and may
+<figure>
+                     <figDesc>diagram of the measurement of a rhomboid (FGHI)</figDesc>
+                  </figure>
+                  <pb n="48" facs="tcp:169874:39"/> be meaſured after this manner: take the length of the ſide HI, or FG, which is 16 inches for one ſide of a ſquared piece of timber, and take the perpendicular FL, which is 10 inches, for the other ſide of the ſame piece, &amp; ſo you may meaſure it by the former part of the tenth Chapter, as if it were an unequall ſquared piece of 16 inches broad, and 10 inches thick.</p>
+               <p>All other four ſided figures beſides the true Square, and the unequall Square in the tenth Chapter, and the Rhombus in the laſt Chapter, and the Rhomboides in this, are called <hi>Trape<g ref="char:EOLhyphen"/>zias</hi> or Tables.</p>
+               <p>
+                  <figure>
+                     <figDesc>diagram of the measurement of a rhomboid (FGHI)</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="49" facs="tcp:169874:39"/>
+               <head>CHAP. XV. How to meaſure Timber, whoſe end is a <hi>Trapezi<g ref="char:EOLhyphen"/>am.</hi>
+               </head>
+               <p>A <hi>Trapeziam</hi> is any irregular four ſided figure of what faſhion ſo<g ref="char:EOLhyphen"/>ever, as the figure ABCD is a Trapeziam, and may be caſt into two
+<figure>
+                     <figDesc>diagram of the measurement of a trapezium (ABCD)</figDesc>
+                  </figure> Triangles, by drawing the Diagonall
+<pb n="50" facs="tcp:169874:40"/> line AC, and ſo each Triangle mea<g ref="char:EOLhyphen"/>ſured as is before ſhewed, which being done, adde the contents of them both together, and you ſhall have the con<g ref="char:EOLhyphen"/>tent of the whole Trapeziam ABCD. Or you may more readily meaſure it thus: Take one half the Diagonall line AC, which in this example will be 8 inches, for one ſide of your piece, and take the two perpendiculars BF and DE, and joyn them both toge<g ref="char:EOLhyphen"/>ther in one ſum, ſo ſhall you have in this example 10 inches for the other ſide of your piece, with which two ſides, (as if it were an unequall ſquared piece of Timber) proceed as before, in the former part of the tenth Chapter.</p>
+            </div>
+            <div n="16" type="chapter">
+               <pb n="51" facs="tcp:169874:40"/>
+               <head>CHAP. XVI. How to meaſure Timber, whoſe ſides are many, as 5, 6, 7, 8, 9, 10, or more, ſo they be all equall.</head>
+               <p>MAny ſided figures are thoſe which have more ſides than foure, and are generally cal<g ref="char:EOLhyphen"/>led <hi>Pollygons.</hi>
+               </p>
+               <p>A piece of timber whoſe end ſhall have more ſides than foure, may be meaſured after this manner, adde all their ſides together, and take halfe that number for one ſide of an unequal ſquared piece of Timber, then let fall a perpendicular from the centre or midſt of the figure, to the midſt of ſome one
+<pb n="52" facs="tcp:169874:41"/> ſide, and take that length for the other ſide of the ſame piece, with which two ſides proceed as before is ſhewed.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of a polygon (regular pentagon)</figDesc>
+               </figure>
+               <p>Suppoſe the figure A to be the end of a piece of Timber of five ſides, be<g ref="char:EOLhyphen"/>ing all equall, and each ſide conteining 12 inches, which being added toge<g ref="char:EOLhyphen"/>ther into one ſum will make 60, the half whereof wil be 30 for the breadth of your piece, then take the length of the perpendicular (falling from the
+<pb n="53" facs="tcp:169874:41"/> center A to the midſt of one of the ſides,) which here is 8 inches, for the thickneſſe of the ſame piece, with which breadth and thickneſſe proceed in all things according to the former part of the tenth Chapter.</p>
+               <p>This rule is generall in all kinde of regular <hi>Polygons,</hi> how many ſides ſoever they have.</p>
+               <p>
+                  <hi>Here I might have proceeded to have ſhewed by what means Pyramidall or picked Timber, or Steeples may be mea<g ref="char:EOLhyphen"/>ſured: but conſidering how little this appertaineth to Carpenters, and how ſufficiently they be handled by Maſter</hi> Diggs <hi>in his Geometricall works, I for<g ref="char:EOLhyphen"/>beare here to write of them.</hi>
+               </p>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="54" facs="tcp:169874:42"/>
+               <head>CHAP. XVII. How to finde the length of a Foot of Board, at any breadth given.</head>
+               <p>THe breadth of a Board being given, with the number of 12, (the ſide of a ſquare foot of Board,) you may by the ſixt Chapter finde how much in length will make a foot at any given breadth, by finding a third proportionall number, which ſhall be to 12, as 12 is to the given breadth.</p>
+               <p>As ſuppoſe a Board to be 16 inches broad, and I would know how much in length will make a foot thereof.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of length (angle ABC)</figDesc>
+               </figure>
+            </div>
+            <div n="18" type="chapter">
+               <head>CHAP. XVIII. The breadth and thickneſs of a piece of Timber given, to find how much in length ſhall make a foot of ſquare Timber at that breadth and thickneſſe.</head>
+               <p>SUppoſe a piece of Timber to be 18 inches broad, and 14 inches thick. Firſt, make any angle, as DFB, and place 18 inches from F to A, this is the ſuppoſed breadth of your piece; then place 12, the ſide of a Cubicall foot of Timber from F to E,
+<pb n="57" facs="tcp:169874:43"/> and draw the line AE: So likewiſe place 12 from F to G, from which point G, draw the line GH parallel to AE, till it cutteth FD in H, ſo ſhall HF be the length of aſquare foot of flat meaſure at the former breadth gi<g ref="char:EOLhyphen"/>ven: thus far according to the laſt Chapter.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of length (angle DFB)</figDesc>
+               </figure>
+               <p>Now to proceed, place 14 the thick<g ref="char:EOLhyphen"/>neſſe of your piece from F to C, and draw the line CG; and laſtly, from the point H, draw the line HI parallel
+<pb n="58" facs="tcp:169874:44"/> to CG, till it cutteth FB in I, ſo ſhall IF be the length of a foot required, which being applyed to your Scale, will reach almoſt unto 7 inches, it wanteth but one ſeventh part of an inch, and ſuch is the length of a foot of Timber whoſe breadth is 18 inch<g ref="char:EOLhyphen"/>es, and thickneſſe 14 inches.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>CHAP. XIX. Of the Table for Board and Square Timber, and alſo for round Timber.</head>
+               <div type="section">
+                  <p>COncerning the uſe of theſe Ta<g ref="char:EOLhyphen"/>bles, I would have you to un<g ref="char:EOLhyphen"/>derſtand that I have ſuppoſed the Inch to be divided into 10 equall parts, and each part divided into 10 e<g ref="char:EOLhyphen"/>quall parts, and ſo the whole inch will contain 100 equall parts.</p>
+                  <pb n="59" facs="tcp:169874:44"/>
+                  <p>
+                     <table>
+                        <head>A Table for Board meaſure.</head>
+                        <row>
+                           <cell role="label">Inches.</cell>
+                           <cell role="label">Feet.</cell>
+                           <cell role="label">Inches.</cell>
+                           <cell role="label">10 part of In</cell>
+                           <cell role="label">10 part of a 10 part.</cell>
+                        </row>
+                        <row>
+                           <cell>1</cell>
+                           <cell>12</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>06</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>04</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>03</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>02</cell>
+                           <cell>04</cell>
+                           <cell>8</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>02</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>01</cell>
+                           <cell>08</cell>
+                           <cell>5</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>01</cell>
+                           <cell>06</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>01</cell>
+                           <cell>04</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>01</cell>
+                           <cell>02</cell>
+                           <cell>4</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>11</cell>
+                           <cell>01</cell>
+                           <cell>01</cell>
+                           <cell>0</cell>
+                           <cell>9</cell>
+                        </row>
+                        <row>
+                           <cell>12</cell>
+                           <cell>01</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>13</cell>
+                           <cell> </cell>
+                           <cell>11</cell>
+                           <cell>0</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>14</cell>
+                           <cell> </cell>
+                           <cell>10</cell>
+                           <cell>2</cell>
+                           <cell>8</cell>
+                        </row>
+                        <row>
+                           <cell>15</cell>
+                           <cell> </cell>
+                           <cell>09</cell>
+                           <cell>6</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>16</cell>
+                           <cell> </cell>
+                           <cell>9</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>17</cell>
+                           <cell> </cell>
+                           <cell>8</cell>
+                           <cell>4</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>18</cell>
+                           <cell> </cell>
+                           <cell>8</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>19</cell>
+                           <cell> </cell>
+                           <cell>7</cell>
+                           <cell>5</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>20</cell>
+                           <cell> </cell>
+                           <cell>7</cell>
+                           <cell>2</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>21</cell>
+                           <cell> </cell>
+                           <cell>6</cell>
+                           <cell>8</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>22</cell>
+                           <cell> </cell>
+                           <cell>6</cell>
+                           <cell>5</cell>
+                           <cell>4</cell>
+                        </row>
+                        <row>
+                           <cell>23</cell>
+                           <cell> </cell>
+                           <cell>6</cell>
+                           <cell>2</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>24</cell>
+                           <cell> </cell>
+                           <cell>6</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>25</cell>
+                           <cell> </cell>
+                           <cell>5</cell>
+                           <cell>7</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>16</cell>
+                           <cell> </cell>
+                           <cell>5</cell>
+                           <cell>5</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>27</cell>
+                           <cell> </cell>
+                           <cell>5</cell>
+                           <cell>3</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>28</cell>
+                           <cell> </cell>
+                           <cell>5</cell>
+                           <cell>1</cell>
+                           <cell>4</cell>
+                        </row>
+                        <row>
+                           <cell>29</cell>
+                           <cell> </cell>
+                           <cell>4</cell>
+                           <cell>9</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>30</cell>
+                           <cell> </cell>
+                           <cell>4</cell>
+                           <cell>8</cell>
+                           <cell>0</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="60" facs="tcp:169874:45"/>
+                  <p>
+                     <table>
+                        <head>A Table of ſquare Timber meaſure.</head>
+                        <row>
+                           <cell role="label">Inches.</cell>
+                           <cell role="label">Feet.</cell>
+                           <cell role="label">Inches.</cell>
+                           <cell role="label">10 part of In</cell>
+                           <cell role="label">10 part of a 10 part.</cell>
+                        </row>
+                        <row>
+                           <cell>1</cell>
+                           <cell>144</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>36</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>16</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>9</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>5</cell>
+                           <cell>09</cell>
+                           <cell>1</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>4</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>2</cell>
+                           <cell>11</cell>
+                           <cell>2</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>2</cell>
+                           <cell>03</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>1</cell>
+                           <cell>09</cell>
+                           <cell>3</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>1</cell>
+                           <cell>05</cell>
+                           <cell>2</cell>
+                           <cell>8</cell>
+                        </row>
+                        <row>
+                           <cell>11</cell>
+                           <cell>1</cell>
+                           <cell>02</cell>
+                           <cell>2</cell>
+                           <cell>8</cell>
+                        </row>
+                        <row>
+                           <cell>12</cell>
+                           <cell>1</cell>
+                           <cell>00</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>13</cell>
+                           <cell> </cell>
+                           <cell>10</cell>
+                           <cell>2</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>14</cell>
+                           <cell> </cell>
+                           <cell>08</cell>
+                           <cell>8</cell>
+                           <cell>1</cell>
+                        </row>
+                        <row>
+                           <cell>15</cell>
+                           <cell> </cell>
+                           <cell>07</cell>
+                           <cell>6</cell>
+                           <cell>8</cell>
+                        </row>
+                        <row>
+                           <cell>16</cell>
+                           <cell> </cell>
+                           <cell>6</cell>
+                           <cell>7</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>17</cell>
+                           <cell> </cell>
+                           <cell>5</cell>
+                           <cell>9</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>18</cell>
+                           <cell> </cell>
+                           <cell>5</cell>
+                           <cell>3</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>19</cell>
+                           <cell> </cell>
+                           <cell>4</cell>
+                           <cell>7</cell>
+                           <cell>8</cell>
+                        </row>
+                        <row>
+                           <cell>20</cell>
+                           <cell> </cell>
+                           <cell>4</cell>
+                           <cell>3</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>21</cell>
+                           <cell> </cell>
+                           <cell>3</cell>
+                           <cell>9</cell>
+                           <cell>1</cell>
+                        </row>
+                        <row>
+                           <cell>22</cell>
+                           <cell> </cell>
+                           <cell>3</cell>
+                           <cell>5</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>23</cell>
+                           <cell> </cell>
+                           <cell>3</cell>
+                           <cell>2</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>24</cell>
+                           <cell> </cell>
+                           <cell>3</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>25</cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>7</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>26</cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>5</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>27</cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>3</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>28</cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>2</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>29</cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>0</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>30</cell>
+                           <cell> </cell>
+                           <cell>1</cell>
+                           <cell>9</cell>
+                           <cell>2</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="61" facs="tcp:169874:45"/>
+                  <p>
+                     <table>
+                        <head>A Table of round Timber meaſure.</head>
+                        <row>
+                           <cell role="label">Inches.</cell>
+                           <cell role="label">Feet.</cell>
+                           <cell role="label">Inches.</cell>
+                           <cell role="label">10 part of In</cell>
+                           <cell role="label">10 part of a 10 part.</cell>
+                        </row>
+                        <row>
+                           <cell>1</cell>
+                           <cell>113</cell>
+                           <cell>01</cell>
+                           <cell>7</cell>
+                           <cell>1</cell>
+                        </row>
+                        <row>
+                           <cell>2</cell>
+                           <cell>28</cell>
+                           <cell>03</cell>
+                           <cell>4</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>3</cell>
+                           <cell>12</cell>
+                           <cell>06</cell>
+                           <cell>8</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>4</cell>
+                           <cell>7</cell>
+                           <cell>00</cell>
+                           <cell>8</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>5</cell>
+                           <cell>4</cell>
+                           <cell>06</cell>
+                           <cell>3</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>6</cell>
+                           <cell>3</cell>
+                           <cell>01</cell>
+                           <cell>7</cell>
+                           <cell>1</cell>
+                        </row>
+                        <row>
+                           <cell>7</cell>
+                           <cell>2</cell>
+                           <cell>03</cell>
+                           <cell>7</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>8</cell>
+                           <cell>1</cell>
+                           <cell>09</cell>
+                           <cell>2</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>9</cell>
+                           <cell>1</cell>
+                           <cell>04</cell>
+                           <cell>7</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>10</cell>
+                           <cell>1</cell>
+                           <cell>01</cell>
+                           <cell>5</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>11</cell>
+                           <cell> </cell>
+                           <cell>11</cell>
+                           <cell>2</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>12</cell>
+                           <cell> </cell>
+                           <cell>09</cell>
+                           <cell>4</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>13</cell>
+                           <cell> </cell>
+                           <cell>08</cell>
+                           <cell>0</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>14</cell>
+                           <cell> </cell>
+                           <cell>06</cell>
+                           <cell>9</cell>
+                           <cell>2</cell>
+                        </row>
+                        <row>
+                           <cell>15</cell>
+                           <cell> </cell>
+                           <cell>06</cell>
+                           <cell>0</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>16</cell>
+                           <cell> </cell>
+                           <cell>5</cell>
+                           <cell>3</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>17</cell>
+                           <cell> </cell>
+                           <cell>4</cell>
+                           <cell>6</cell>
+                           <cell>9</cell>
+                        </row>
+                        <row>
+                           <cell>18</cell>
+                           <cell> </cell>
+                           <cell>4</cell>
+                           <cell>1</cell>
+                           <cell>9</cell>
+                        </row>
+                        <row>
+                           <cell>19</cell>
+                           <cell> </cell>
+                           <cell>3</cell>
+                           <cell>7</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>20</cell>
+                           <cell> </cell>
+                           <cell>3</cell>
+                           <cell>3</cell>
+                           <cell>9</cell>
+                        </row>
+                        <row>
+                           <cell>21</cell>
+                           <cell> </cell>
+                           <cell>3</cell>
+                           <cell>1</cell>
+                           <cell>1</cell>
+                        </row>
+                        <row>
+                           <cell>22</cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>8</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>23</cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>5</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>24</cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>3</cell>
+                           <cell>5</cell>
+                        </row>
+                        <row>
+                           <cell>25</cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>1</cell>
+                           <cell>7</cell>
+                        </row>
+                        <row>
+                           <cell>26</cell>
+                           <cell> </cell>
+                           <cell>2</cell>
+                           <cell>0</cell>
+                           <cell>0</cell>
+                        </row>
+                        <row>
+                           <cell>27</cell>
+                           <cell> </cell>
+                           <cell>1</cell>
+                           <cell>8</cell>
+                           <cell>6</cell>
+                        </row>
+                        <row>
+                           <cell>28</cell>
+                           <cell> </cell>
+                           <cell>1</cell>
+                           <cell>7</cell>
+                           <cell>3</cell>
+                        </row>
+                        <row>
+                           <cell>29</cell>
+                           <cell> </cell>
+                           <cell>1</cell>
+                           <cell>6</cell>
+                           <cell>1</cell>
+                        </row>
+                        <row>
+                           <cell>30</cell>
+                           <cell> </cell>
+                           <cell>1</cell>
+                           <cell>5</cell>
+                           <cell>1</cell>
+                        </row>
+                     </table>
+                  </p>
+                  <pb n="62" facs="tcp:169874:46"/>
+                  <p>The firſt columne towards the left hand, doth contein any number of inches, from one to 30.</p>
+                  <p>In each of theſe Tables, is ſet down the length of a foot in feet &amp; inches, &amp; the tenth part of an inch, and ſo to the tenth part of one tenth part of an inch, that is to the hundreth part of an inch.</p>
+               </div>
+               <div type="section">
+                  <head>Of Board Meaſure.</head>
+                  <p>An example upon each Table, will give more light than many words, and therefore, firſt, of Board: ſuppoſe a Board to be 7 inches broad: then find 7 in the firſt columne towards the left hand, and over againſt it, under the title of Board Meaſure; you ſhall find one foot 8 inches, 5 tenths of an inch, and 7 tenths of one tenth part of an inch, and ſuch is the length of a foot of Board at that breadth.</p>
+                  <p>And ſo if a Board be 14 inches broad, look 14 in the column towards
+<pb n="63" facs="tcp:169874:46"/> the left hand, and againſt it under the title of Board Meaſure, you ſhall find 10 inches, two tenths of an inch, and eight parts of one tenth part of an inch; for the length of a foot at that breadth: and the like is to be obſerved for Timber.</p>
+               </div>
+               <div type="section">
+                  <head>Of ſquare Timber.</head>
+                  <p>Suppoſe a piece of Timber to be 10 inches ſquare, look 10 to the left hand, and over againſt it, under the ti<g ref="char:EOLhyphen"/>tle of ſquare Timber, you ſhall finde one foot, five inches, two tenths of an inch, and eight parts of one tenth, for the length of a foot.</p>
+                  <p>If the ſquare given be 16 inches, then over againſt 16, under the title of ſquare Timber you ſhall find 6 inches, 7 tenths of an inch, and 5 parts of one tenth.</p>
+               </div>
+               <div type="section">
+                  <pb n="64" facs="tcp:169874:47"/>
+                  <head>Of Round Timber.</head>
+                  <p>For Round Timber, gird the piece about with ſome line, and with a quar<g ref="char:EOLhyphen"/>ter thereof enter your Table, and o<g ref="char:EOLhyphen"/>ver againſt it under the title of Round Timber, you ſhall finde the length of a foot.</p>
+                  <p>As ſuppoſe a ſtick to be 44 inches a<g ref="char:EOLhyphen"/>bout, the quarter whereof is eleven inches, with which I enter the Table, in the columne towards the left hand, and over againſt it, under the title of Round Timber, you ſhall finde 11 inches, two tenths of an inch, &amp; two parts of one tenth part of an inch, which is the length of a foot, at that thickneſs, and if that piece had been but 28 inches about, then the quarter thereof would have been but 7 inches, which being found to the left hand of the Table, over againſt it under the title of Round Timber, you ſhall find
+<pb n="65" facs="tcp:169874:47"/> two feet three inches, and ſeven tenth parts of an inch, which is the length of a foot at that thickneſs.</p>
+               </div>
+               <div type="note">
+                  <head>Note.</head>
+                  <p>And hereby will appear, that groſs errour which Carpenters uſe in taking a quarter of the Circumference, for the true ſquare of that piece, which in<g ref="char:EOLhyphen"/>deed it is not: for here againſt 7, in Timber which is ſquare, there ſtandeth two foot, 11 inches, two tenths of an inch, and ſix parts of one tenth, where<g ref="char:EOLhyphen"/>by it doth plainly appear, that at this thickneſs they do make their foot too long by 7 inches, 5 tenths, and 6 parts of one tenth part of an inch. Theſe three Tables may be placed upon your Rule, according to the ordinary manner.</p>
+               </div>
+            </div>
+            <div n="20" type="chapter">
+               <pb n="66" facs="tcp:169874:48"/>
+               <head>CHAP. XX. How to finde a mean propor<g ref="char:EOLhyphen"/>tionall line between two lines given.</head>
+               <p>THe Tables of Timber meaſure ſervs for ſuch timber as is juſt ſquare or round, it will not be unneceſſary to ſhew you how to finde a mean proportional line, between two lines given, or to bring an unequall ſquared piece of Timber, to a true ſquare, and ſo to apply it to your Ta<g ref="char:EOLhyphen"/>ble.</p>
+               <p>Let a piece of Timber to be mea<g ref="char:EOLhyphen"/>ſured, be 9 inches broad, and 4 inches thick. Now: becauſe it is not juſt ſquare, it cannot be meaſured by the Table, therefore we muſt finde a mean between the two given ſides, after this manner.</p>
+               <pb n="67" facs="tcp:169874:48"/>
+               <figure>
+                  <figDesc>diagram of the measurement of a semi-circle (ABC)</figDesc>
+               </figure>
+               <p>So that it doth appear, that a piece of Timber that is 9 inches broad, and 4 inches thick, is equall to a piece of 6 inches ſquare.</p>
+               <pb n="68" facs="tcp:169874:49"/>
+               <p>And hereby doth another of our Carpenters errours appear, which is this, they do put both ſides together, and then they take half of that num<g ref="char:EOLhyphen"/>ber, for the true ſquare of that piece, which is meerly falſe. For in this ex<g ref="char:EOLhyphen"/>ample, joyn 9 and 4 together, and they will make 13, the halfe whereof is 6 and a halfe, which indeed, according to our Rule ſhould be but ſix.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of a semi-circle (ABC)</figDesc>
+               </figure>
+               <p>Having found the mean proportio<g ref="char:EOLhyphen"/>nall number, you may enter the Ta<g ref="char:EOLhyphen"/>ble of Timber therewith, as hath bin
+<pb n="69" facs="tcp:169874:49"/> formerly ſhewed, concerning ſquare Timber. By this Rule the ingenious Practicioner may bring any of the for<g ref="char:EOLhyphen"/>mer pieces, of what faſhion ſoever, to be meaſured by the Table of ſquare Timber.</p>
+               <p>And hee that hath Arithmetick, may apply the proportions given in this Book, to the <hi>Rule of Three,</hi> and thereby he ſhall finde the contents as before.</p>
+               <trailer>The end of the firſt Part.</trailer>
+            </div>
+         </div>
+         <div n="2" type="part">
+            <pb facs="tcp:169874:50"/>
+            <pb n="71" facs="tcp:169874:50"/>
+            <head>THE ARTIFICERS Plain Scale.</head>
+            <head>The ſecond Part.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. Of the Scale, and the gradu<g ref="char:EOLhyphen"/>ations or diviſions there<g ref="char:EOLhyphen"/>of, and how they are to be uſed.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>He Scale here mentioned in this ſecond Part, is a two foot Rule made with a joynt, having a line of e<g ref="char:EOLhyphen"/>qual
+<pb n="72" facs="tcp:169874:51"/> parts iſſuing fro<g ref="char:cmbAbbrStroke">̄</g> the center there<g ref="char:EOLhyphen"/>of, and divided into 100 equall parts, upon the flat or edge thereof, may be made the other Rule according to the directions and figures in the preceding Part, ſo that any Artificer having his Rule and a pair of Compaſſes about him, may meaſure his Board, Timber, or Stone, two ſeverall ways.</p>
+               <p>And before I come to any perticu<g ref="char:EOLhyphen"/>lar Propoſitions of the meaſuring of any Timber, or Board, I wil firſt ſhew the uſe of this opening Scale, in find<g ref="char:EOLhyphen"/>ing of proportionall Lines, which is the ground of the way of meaſuring in the former Book, and alſo apply the uſe of them to ſome other Concluſi<g ref="char:EOLhyphen"/>ons following.</p>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="73" facs="tcp:169874:51"/>
+               <head>CHAP. II. To divide a line gi<g ref="char:EOLhyphen"/>ven, into any num<g ref="char:EOLhyphen"/>ber of equall parts.</head>
+               <p>THe line given is AB, and it is required to di<g ref="char:EOLhyphen"/>vide the ſame into five equall parts.</p>
+               <figure>
+                  <figDesc>diagram of the division of a line (AB)</figDesc>
+               </figure>
+               <p>Take with your Compaſ<g ref="char:EOLhyphen"/>ſes the given line AB, and fit that in any number that may be equally parted into five without any remainer, as fit it in 100, there let the Scale reſt, then take it over in one fifth part thereof, <hi>viz.</hi> in 20, and that diſtance ſet from A to 1,
+<pb n="74" facs="tcp:169874:52"/> ſo is A 1 one fifth part of the given line AB, which was required.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. To take any part or parts of a line.</head>
+               <p>THe line given is AB, now of the ſame line it is re<g ref="char:EOLhyphen"/>quired to cut off three eight parts thereof.</p>
+               <figure>
+                  <figDesc>diagram of the division of a line (AB)</figDesc>
+               </figure>
+               <p>Take the given line AB, and apply it to ſome number that may be parted in 8, which 8 is the Denominator, and take it o<g ref="char:EOLhyphen"/>ver in the Numerator, or fit it in ſo many times the Numera<g ref="char:EOLhyphen"/>tor.</p>
+               <p>As fit AB in 80, which is 10
+<pb n="75" facs="tcp:169874:52"/> times 8 the Denominator, there let reſt the Scale, then take it over in ten times the Numerator, <hi>viz.</hi> in 30, and that diſtance ſet from A to C, ſo is AC three eight parts of AB given: then muſt CB be the reſt, which is five eights. For if you take it over in 50, which is five eights of 80, (as the Scale ſtood wherein the line AB was fitted) and CB will appear to be the reſt.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. A line containing any part or parts of a line, thereby to finde the whole line.</head>
+               <p>SUppoſe that AB be three eight parts of ſome line, and let it be required to find the whole line.</p>
+               <p>Take both Numerator and Deno<g ref="char:EOLhyphen"/>minator
+<pb n="76" facs="tcp:169874:53"/>
+                  <figure>
+                     <figDesc>diagram of the measurement of parts of a line (AB and CD)</figDesc>
+                  </figure> ſo many times as you pleaſe, as take each ten times, makes 30 and 50, then take the line AB and fit that in 30, and there let reſt the Scale, then take it over in 50, &amp; that diſtance lay down for the line CD, and ſo ſhall CD be the whole line, whereof AB was three eights.</p>
+            </div>
+            <div n="5" type="chapter">
+               <pb n="77" facs="tcp:169874:53"/>
+               <head>CHAP. V. A line being given, conteining any number of equall parts, to cut off from it ſo many as ſhall be required.</head>
+               <p>AS let AB be a line given, conteining 52 parts upon ſome Scale, and let it be required to cut off from it 24 of the ſame parts.</p>
+               <figure>
+                  <figDesc>diagram of the division of a line (AB)</figDesc>
+               </figure>
+               <p>Take with your Com<g ref="char:EOLhyphen"/>paſſes the given line AB, and ſet that in 52 of the e<g ref="char:EOLhyphen"/>quall parts, there let reſt the
+<pb n="78" facs="tcp:169874:54"/> Scale, then take it over in 24, the parts required, and that diſtance ſet from A to C, ſo is AC 24 of the ſame parts whereof AB is 52, which was required to be done.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP. VI. To lay down ſodainly 2, 3, or more lines in proportion required.</head>
+               <p>IT is required to lay down foure lines in proportion one to another, as theſe foure numbers following. The numbers given
+<list>
+                     <item>60 A</item>
+                     <item>50 B</item>
+                     <item>32 C</item>
+                     <item>23 D</item>
+                  </list>
+               </p>
+               <p>Open by chance your Scale, and
+<pb n="79" facs="tcp:169874:54"/> there let it reſt, then take it over in 60 and in 50, and lay them both down, alſo take it over in 32 and 23, and lay them down, and ſo have you four lines A, B, C, D, in proportion, ac<g ref="char:EOLhyphen"/>cording to the four numbers given.</p>
+               <figure>
+                  <figDesc>diagram of the measurement of proportional lines (A, B, C, and D)</figDesc>
+               </figure>
+            </div>
+            <div n="7" type="chapter">
+               <pb n="80" facs="tcp:169874:55"/>
+               <head>CHAP. VII. In a Map or Plot, the length of any line being known, thereby to find the length of all or any of the reſt.</head>
+               <p>AS in the Plot ABCDEF, let the length of the line AB be known to be 47 parts, on ſome Scale, now it is required to finde the length of the line CD.</p>
+               <p>Take the known line AB, and fit that in 47, and let the Scale reſt, then take CD, and bring it along the e<g ref="char:EOLhyphen"/>quall parts, till it be equally fitted on each ſide, which is 73 parts, ſo is CD 73 of the ſame as AB is 47, the like of all the reſt.</p>
+               <pb n="81" facs="tcp:169874:55"/>
+               <figure>
+                  <figDesc>diagram of the measurement of a plot (ABCDEF)</figDesc>
+               </figure>
+            </div>
+            <div n="8" type="chapter">
+               <pb n="82" facs="tcp:169874:56"/>
+               <head>CHAP. VIII. <g ref="char:V">Ʋ</g>nto two lines given to find a third in proportion.</head>
+               <div type="section">
+                  <p>THe two lines given are A and B, and it is required to finde a third in proportion.</p>
+                  <figure>
+                     <figDesc>diagram of the measurement of proportional lines (A, B, and C)</figDesc>
+                  </figure>
+                  <p>Take the two lines given, and apply them to any Scale of equall parts, and ſee how ma<g ref="char:EOLhyphen"/>ny parts they contein, and let A contain 24 parts, and B 36 of the ſame parts, then take 36 the length of the line B on ſome Scale of equall parts, and fit that on 24 the line A,
+<pb n="83" facs="tcp:169874:56"/> then let the Scale reſt, then take it over in the line B, <hi>viz.</hi> 36, and that diſtance lay downe for the line C, which ſhall be 54, a third line in pro<g ref="char:EOLhyphen"/>portion required.</p>
+               </div>
+               <div type="section">
+                  <head>The Reaſon.</head>
+                  <p>For as 36 is 24, one time half, ſo is 54 once, 36 and a half, and ſo conſe<g ref="char:EOLhyphen"/>quently 54 is the third proportionall required.</p>
+               </div>
+            </div>
+            <div n="9" type="chapter">
+               <pb n="84" facs="tcp:169874:57"/>
+               <head>CHAP. IX. <g ref="char:V">Ʋ</g>nto 3 Lines given, to find a fourth in proportion, that is to perform the <hi>Rule of Three</hi> in Lines.</head>
+               <p>AS let A B C be the 3 lines, unto the which it is required to finde a fourth in proportion, that is, as the firſt is to the ſecond, ſo is the third to the fourth.</p>
+               <p>Take the three lines one after ano<g ref="char:EOLhyphen"/>ther with your Compaſſes, and apply them to any Scale of equall parts to know their length, and ſuppoſe you find them as the numbers which ſtand by them.</p>
+               <pb n="85" facs="tcp:169874:57"/>
+               <figure>
+                  <figDesc>diagram of the measurement of proportional lines (A, B, C, and D)</figDesc>
+               </figure>
+            </div>
+            <div n="10" type="chapter">
+               <pb n="86" facs="tcp:169874:58"/>
+               <head>CHAP. X. To divide a line given into two ſuch parts, bearing proportion one to the other, as two numbers given.</head>
+               <p>AS let it be required to di<g ref="char:EOLhyphen"/>vide the given line AB into two ſuch parts, bear<g ref="char:EOLhyphen"/>ing proportion one to the other, as 28 to 21, <hi>viz.</hi> that AC may be to CB, as 28 to 21.</p>
+               <figure>
+                  <figDesc>diagram of the division of a line (AB)</figDesc>
+               </figure>
+               <p>Adde your two given num<g ref="char:EOLhyphen"/>bers together, <hi>viz.</hi> 28 and 21, make 49, then take with your Compaſſes the given line, AB
+<pb n="87" facs="tcp:169874:58"/> and fit it in 49, there let the Scale reſt, then take it over in 28, which ſet from A to C, ſo is AC to BC, as 28 to 21, which was required to be done.</p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CHAP. XI. To meaſure flat Meaſure.</head>
+               <p>A Board being 16 inches broad, now it is required to finde how much in length makes one foot.</p>
+               <p>Take on any Scale of equall parts 12, the number of inches in one foot, and fit that in the breadth of the board which is 16, there let the Scale reſt, then take it over in 12 alwayes, and that apply to the ſame Scale of equall parts where the 12 was taken, and it ſheweth 9, and ſo many inches in length make a foot of board required,
+<pb n="88" facs="tcp:169874:59"/> for if a board have 16 inches in length and 9 in breadth, theſe two numbers multiplyed together make 144 inches, the number of ſquare inches contein<g ref="char:EOLhyphen"/>ed in a foot of ſquare board, or glaſs, &amp;c.</p>
+               <p>Let a board be ſeven inches &amp; three quarters broad, now it is required to finde how much in length makes one foot.</p>
+               <p>Take (as before) 12 of ſome Scale of equall parts, and fit it on ſeven three quarters, the breadth thereof, and then take it over in 12, as before, but to fit it in ſeven three quarters, would open the Scale too wide, there<g ref="char:EOLhyphen"/>fore take four times ſeven three quar<g ref="char:EOLhyphen"/>ters, which is 31, &amp; fit 12 in that, and take it over in four times 12, which is 48, and that diſtance applyed to the ſame Scale where the 12 was taken, ſheweth 18 three fifths, and ſo many in length ſhall make one foot.</p>
+               <p>If a board be two inches broad,
+<pb n="89" facs="tcp:169874:59"/> how much in length ſhal make a foot?</p>
+               <p>Multiply two the breadth of the Board, and 12 the inches in the foot by 10 makes 20, and 120, then take of ſome ſmall Scale 120 (which may be done upon ſome Scale placed upon your Rule) and fit that on 20 on the Scale, and take it over in 12, and fit it in 2, 3, or 4 times 20, and take it over in ſo many times 12, and that apply to the ſame Scale, where the 120 was ta<g ref="char:EOLhyphen"/>ken, and it ſheweth 72 inches, and ſo many in length is a foot of Board, the Board being two inches broad.</p>
+               <p>Let a Board be three inches and three quarters broad, now you deſire to know how much in length maketh a foot.</p>
+               <p>Bring three inches and a quarter into quarters, and it maketh 13 quar<g ref="char:EOLhyphen"/>ters, then multiply 12, the inches in a foot, into quarters, and it maketh 48: take then 48 parts of ſome ſmall Scale and fit that in 13, then let the Scale
+<pb n="90" facs="tcp:169874:60"/> reſt, and take it over in 12, and apply that to the ſame Scale where the 48 was taken, ſheweth 44 and one third part, and ſo many inches in length is required to make a foot.</p>
+               <p>But having taken your 48 on ſome ſmall Scale, and are to fit it on 13, now if it open your Scale too wide, you may fit it over in two or three times 13, and take it over in ſo many times 12, as fit 48 in four times 13, that is in 52, and take it over in four times 12, that is, in 48, and it ſheweth, 44 and one third, as before, being apply<g ref="char:EOLhyphen"/>ed to the ſame Scale where the 48 was taken.</p>
+               <p>Again, let a Board be 5 inches, and three eight parts of an inch broad, and it is required to finde how many inches in length make a foot.</p>
+               <p>Bring five and three eights into eights, makes 43, and 12 into eights make 96, then take 96 and fit it in 43, or in twice 43, there let the Scale reſt,
+<pb n="91" facs="tcp:169874:60"/> and take it over in 12, and alſo apply it to the ſame Scale where 96 was ta<g ref="char:EOLhyphen"/>ken, and it ſheweth 26 and three quarters, and ſo much in length makes a foot of Board, the breadth being 5 inches, and three eight parts of an inch, which is the thing deſi<g ref="char:EOLhyphen"/>red.</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CHAP. XII. To meaſure Board that is broader at one end then at the other.</head>
+               <p>SUppoſe a Board be broad at one end 20 inches, and at the other 16: now it is required to finde how much in length makes one foot throughout the whole Board.</p>
+               <p>Adde the breadth at both ends to<g ref="char:EOLhyphen"/>gether,
+<pb n="92" facs="tcp:169874:61"/> and take halfe thereof for a mean breadth, ſo finde you 18, then is it all one as if your Board were 18 inches, and you would know how much in length makes a foot.</p>
+               <p>Take 12 and fit it in 18, and take it over in 12, and ſo much makes a foot.</p>
+               <p>Let a board be broad at one end ten inches and a quarter, and at the o<g ref="char:EOLhyphen"/>ther ſeven and a halfe, now the deſire is to know how much in length makes a foot.</p>
+               <p>Adde both the numbers together and take halfe, which maketh 8 inch<g ref="char:EOLhyphen"/>es and ſeven eight parts of an inch for the common breadth; then bring 8 inches and ſeven eights of an inch &amp; 12 inches into eights, and it maketh 71 eights, and 96 eights. Take then 96 in ſome Scale, and fit that in 71, then let the Scale reſt, then take it o<g ref="char:EOLhyphen"/>ver in 12, and that apply to the ſame Scale where the 96 was taken, and it ſheweth 16 and a quarter, and ſo ma<g ref="char:EOLhyphen"/>ny
+<pb n="93" facs="tcp:169874:61"/> inches in length make one foot of Board.</p>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. To finde how many ſquare feet any whole Board con<g ref="char:EOLhyphen"/>taineth, without finding how much in length makes a foot.</head>
+               <p>IMagine a Board be 15 foot long, and 16 inches broad, and it is re<g ref="char:EOLhyphen"/>quired to finde how many ſquare foot of Board it containeth.</p>
+               <p>Take the length of 15 on ſome Scale of equall parts, and fit that in 12 the inches in a foot (alwayes) there let the Scale reſt, then take it over in 16 the breadth, and apply it to the ſame Scale where the length was taken, it
+<pb n="94" facs="tcp:169874:62"/> ſheweth 20, and ſo many ſquare foot is found to be therein contained.</p>
+               <p>Let a Board be 17 foot and a quar<g ref="char:EOLhyphen"/>ter long, and 16 inches and a halfe broad, and the deſire is to know how many foot it containeth.</p>
+               <p>Take 17 and a quarter the length, and fit it in 12, and take it over in 16 and a half, and that apply to the ſame Scale whe 17 and a quarter the length was taken, it ſheweth 23 and two thirds, and ſo many foot it contain<g ref="char:EOLhyphen"/>eth.</p>
+               <p>Or you may bring 17 and a quarter into quarters, makes 69, and in like manner 12 into quarters, makes 48, and take it over in 16 and a halfe the breadth, ſo finde you 23 and two thirds as before.</p>
+            </div>
+            <div n="14" type="chapter">
+               <pb n="95" facs="tcp:169874:62"/>
+               <head>CHAP. XIV. To meaſure Board that is broader at the one end then at the other, in the ſame manner.</head>
+               <p>SUppoſe a Board be broad at the one end 18 inches, and at the o<g ref="char:EOLhyphen"/>ther end 14, and long 21 foot, I demand how many ſquare foot it con<g ref="char:EOLhyphen"/>taineth.</p>
+               <p>Adde the breadth at both ends to<g ref="char:EOLhyphen"/>gether, makes 32 inches, whoſe halfe is 16 inches for a mean breadth, then proceed as before, take 21 and fit it in 12, and take it over in 16, or fit it in five times 12, and take it over in five times 16, ſo finde you 28 for the area required.</p>
+               <pb n="96" facs="tcp:169874:63"/>
+               <p>Again, let a Board be broad at the one end 11 inches and a halfe, and at she other 7 and three quarters, and 15 foot and three quarters long, now the Area is required.</p>
+               <p>Firſt, adde them both together, and take half, makes 9 five eight parts, for the mean breadth.</p>
+               <p>Then take 15 three quarters, the length on any Scale, and fit in 12, and take it over in 9 five eights, and that applyed to the ſame Scale where the length was taken, and it ſheweth how many foot it containeth.</p>
+               <p>Or bring 12, and 9 five eights into eights, make 96 and 77, then fit fifteen three quarters the length, in 96, and take it over in 77, and that ſheweth on the ſame Scale where the 15 three quarters was taken, twelve two thirds, the Area deſired.</p>
+            </div>
+            <div n="15" type="chapter">
+               <pb n="97" facs="tcp:169874:63"/>
+               <head>CHAP. XV. To meaſure Timber.</head>
+               <p>SUppoſe a piece of Timber be 18 inches broad, and deep 16 inches, it is required to finde how much in length doth make a foot.</p>
+               <p>Take twelve the inches in a foot on any Scale of equal parts, &amp; fit that in the breadth eighteen, and take that over in twelve, alwayes. Again, ſet that diſtance in ſixteen the depth, and take it over in twelve ſtill, and that ap<g ref="char:EOLhyphen"/>ply to the ſame Scale where the twelve was taken ſhew ſix, and ſo many inches in length make a foot, the thing required.</p>
+               <p>Again, let a piece of Timber be broad ſixteen inches, and deep thir<g ref="char:EOLhyphen"/>teen
+<pb n="98" facs="tcp:169874:64"/> and a halfe, and it is required to finde how much in length make one foot.</p>
+               <p>As before, fit twelve in ſixteen, and take it over in 12 ſtill, &amp; that apply to the ſame Scale where the twelve was taken, ſheweth eight inches, and ſo many inches in length make one foot.</p>
+               <p>Again, let a piece of Timber be fifteen three quarters broad, and ele<g ref="char:EOLhyphen"/>ven three quarters deep: I demand how much ſhall make a foot?</p>
+               <p>Bring fifteen three quarters, and twelve into quarters, makes ſixty three, and forty eight, then take twelve on ſome Scale of equall parts, and fit it in ſixty three, and take it over in 48, and that diſtance fit in eleven one quarter, and take it over in 12: Or as before, bring eleven one quarter, and twelve both into quarters, makes for<g ref="char:EOLhyphen"/>ty eight and forty five, then fit it in forty five, and take it over in forty
+<pb n="99" facs="tcp:169874:64"/> eight, and that applyed to the ſame Scale where the firſt twelve was ta<g ref="char:EOLhyphen"/>ken, ſheweth nine foure fifths, and ſo many inches in length will make one foot.</p>
+               <p>If a piece of Timber be ſeven one quarter broad, and five &amp; a half deep, it is required to finde how much in length ſhall make a foot.</p>
+               <p>Bring ſeven one quarter, and five an a half into quarters, makes twenty nine, eight hundred twenty two, like<g ref="char:EOLhyphen"/>wiſe twelve makes 48, then take twelve on any Scale of equall parts, and fit it on twenty nine, and take it over in forty eight, which diſtance fit again in twenty two, and take it over in forty eight, and that applyed to the ſame Scale where the twelve was taken, ſheweth forty three one third part, and ſo many inches in length make a foot, which was required to be done.</p>
+            </div>
+            <div n="16" type="chapter">
+               <pb n="100" facs="tcp:169874:65"/>
+               <head>CHAP. XVI. To meaſure Timber that is broader at one end than at the other.</head>
+               <p>SUppoſe a piece being broader at the one end than at the other, be given to be meaſured.</p>
+               <p>Firſt, take ſome place neer the big<g ref="char:EOLhyphen"/>ger end for a meane part, then take the breadth and depth thereabout, which ſuppoſe to be twenty and fif<g ref="char:EOLhyphen"/>teen, then proceed as before, ſo finde you 5 three quarters, and ſo many inches in length make a foot.</p>
+            </div>
+            <div n="17" type="chapter">
+               <pb n="101" facs="tcp:169874:65"/>
+               <head>CHAP. XVII. How Perpendicular heights may be found without ei<g ref="char:EOLhyphen"/>ther Inſtrument or Arith<g ref="char:EOLhyphen"/>metick.</head>
+               <p>TAke a trencher, or any ſimple boards end, of what faſhion ſoever, ſuch as you can get, &amp; draw thereon a line towards one of the ſides, as the line AB, and on the point A, raiſe a perpendicular, as AD, then in the line AB, knock in two pins, one at A, and the other at B, then on the point or pin at A, hang a thrid with a plummet, then lift up this board with the end A, towards
+<pb n="102" facs="tcp:169874:66"/> the height required, till you bring the two pins into one ſtraight line, with your eye, and the top of the height required, and directly where the thrid falleth, there mark it with a prick of your Compaſſe, as at E, and draw the line AE, now meaſure the diſtance between your ſtanding, and the baſe of your altitude, which here wee will ſuppoſe to be 36 foot, as from F to G, and take 36 from your Scale, &amp; ſet it down from A to D, from which point D, raiſe a Perpendicular, to cut the plumbe-line AE in E, ſo ſhall DE be the height required, which being applyed unto your Scale, will reach unto 32, and ſo many foot is the alti<g ref="char:EOLhyphen"/>tude GH.</p>
+               <figure>
+                  <figDesc>depiction of the measurement of altitude or height</figDesc>
+               </figure>
+               <p>Here note, that the altitude thus found, is from the levell of the eye upwards, and therefore the height fro<g ref="char:cmbAbbrStroke">̄</g> the eye downwards is to be added thereto to make it compleat.</p>
+            </div>
+            <div n="18" type="chapter">
+               <pb n="107" facs="tcp:169874:67"/>
+               <head>CHAP. XVIII. How to take the altitude or height of a building by a bowl of water.</head>
+               <p>PLace on the ground a Bowle of water, which done, erect your body ſtraight up, and goe back in a right line from the building, till you eſpie in the center or middle of the water the very top of the altitude, which done, obſerve the place of your ſtanding, and meaſure the height of your eye from the ground, together with the diſtance from your ſtanding to the water, and the diſtance from the water to the baſe or foot of the al<g ref="char:EOLhyphen"/>titude, which being all exactly taken, will help you to the altitude required by the Rule of proportion.</p>
+               <pb n="106" facs="tcp:169874:68"/>
+               <figure>
+                  <figDesc>depiction of the measurement of altitude or height</figDesc>
+               </figure>
+               <p>Which will be found to be 66 foot and 8 inches.</p>
+            </div>
+            <div n="19" type="chapter">
+               <head>CHAP. XIX. How to take the altitude of a Building by a line and plummet the Sun ſhining.</head>
+               <figure>
+                  <figDesc>depiction of the measurement of altitude or height</figDesc>
+               </figure>
+               <p>If CD the ſhadow of the line and
+<pb n="111" facs="tcp:169874:69"/> plummet 4 foot 5/11, give EC 7 foot in altitude; what altitude doth 14 foot give, which is the ſhadow of the altitude required.</p>
+               <p>Multiply and divide according to the Rule, and you ſhall finde in your Quotient 22 foot, which is the true altitude of the building required.</p>
+            </div>
+            <div n="20" type="chapter">
+               <head>CHAP. XX. How to find the altitude of a Building by two ſticks of one length joyned in a right angle.</head>
+               <p>CAuſe two ſticks to be joyned in a right angle, as is in the figure MN and OP, having at O a hole made wherein to hang a thrid &amp; plummet.</p>
+               <p>The two ſticks being thus prepared,
+<pb n="110" facs="tcp:169874:70"/> come to the building whoſe altitude you require (which building let be AB) then apply the end of your croſſe ſtaffe (noted with D) to your eye, &amp; hold it up and down till the third and
+<figure>
+                     <figDesc>depiction of the measurement of altitude or height</figDesc>
+                  </figure> plummet hang juſt upon the perpendi<g ref="char:EOLhyphen"/>cular, then goe backward or forward till your eye at D looking over E, eſpy the top of the building at A, which
+<pb n="111" facs="tcp:169874:70"/> found, marke well the place of your ſtanding, which is at F, and meaſure the diſtance from your eye to the ground, which is DF, and ſet that ſame diſtance off from F to C, then meaſure the diſtance from C to B, for that is the true height of the building AB.</p>
+            </div>
+            <div n="21" type="chapter">
+               <pb n="114" facs="tcp:169874:71"/>
+               <head>CHAP. XXI. To finde a Diſtance by the two ſticks joyned ſquare.</head>
+               <p>THis experiment is grounded upon the fourth propoſition of the 6 Booke of <hi>Euclid.</hi>
+               </p>
+               <p>Let the diſtance which you deſire to know be AB, ſet up a ſtaffe at A of four foot long, (or more or leſſe at your pleaſure) as the ſtaffe AC, at the end of the ſtaffe C place a thrid as CD.</p>
+               <p>Then hanging the angle of the ſquare on the top of the ſtaffe at C, move it up or down till you ſee the fartheſt part of your longitude: the ſquare ſo remaining, and the ſtaffe not
+<pb n="113" facs="tcp:169874:71"/> removed, draw the ſtring that is faſte<g ref="char:EOLhyphen"/>ned at C, cloſe by the ſide of the ſquare, till it touch the ground at D, then meaſure how many times the di<g ref="char:EOLhyphen"/>ſtance DA is conteined in the Staffe, for ſo many times is the Staffe con<g ref="char:EOLhyphen"/>teined in the longitude.</p>
+               <p>
+                  <hi>Example.</hi>
+               </p>
+               <p>The Staff ſuppoſed four foot high placed at A, and the Square being
+<gap reason="missing" resp="#OXF" extent="1+ pages">
+                     <desc>〈1… pages missing〉</desc>
+                  </gap>
+               </p>
+            </div>
+            <div n="22" type="chapter">
+               <pb n="116" facs="tcp:169874:72"/>
+               <head>CHAP. XXII. How to deſcribe a <hi>Town</hi> or <hi>City</hi> according to <hi>Cho<g ref="char:EOLhyphen"/>rographicall</hi> proportion, by the helpe of a plain glaſſe.</head>
+               <p>TO performe this concluſion, you muſt reſort to ſome high place in the Town or Coun<g ref="char:EOLhyphen"/>trey you would deſcribe, from whence you may behold all the Caſtles, Ports Harbours, Bays, Gates, Forts, and ſuch other notable places as you in<g ref="char:EOLhyphen"/>tend to deſcribe: which place being choſen, provide a plain glaſſe, which in the midſt of the Platforme hang
+<pb n="117" facs="tcp:169874:72"/> parallel to the Horizon, (in the doing of which you muſt be very carefull) ſo that moving up and down the plat<g ref="char:EOLhyphen"/>forme, you may in the Center of the Glaſſe, ſee all thoſe notable places. The foundation being laid, let us now proceed to the worke; and firſt of all on your platforme, you muſt draw a Meridian line, which muſt paſſe juſt under the Glaſſe, ſo that if a perpendicular line were let fall from the Center of the Glaſſe to the plat<g ref="char:EOLhyphen"/>forme it might cut the Meridian line at right Angles, and by having this line drawn, you may draw the line of Eaſt and Weſt at right Angles to the Meridian; and in like manner, the two and thirty points of the Com<g ref="char:EOLhyphen"/>paſſe, with Circles and Parallels, as is uſuall in the projecting of Sea-charts; ſo that thereby you may know how all the chief places in the Town are ſituate, and how they bear from you: This done, move Circularly about
+<pb n="118" facs="tcp:169874:73"/> the Glaſſe, obſerving always when you eſpie any marke in the Center of your Glaſſe to ſet up a ſtaffe, writing thereupon the name of the place, whether it be Village, Port, Road, or ſuch like, you ſhall in the end ſituate, as it were, the whole Countrey, in due proportion upon your platform, ſo that meaſuring the diſtance of eve<g ref="char:EOLhyphen"/>ry ſtaffe ſet up from the Center of your platforme, and the diſtance like<g ref="char:EOLhyphen"/>wiſe of every ſtaffe from other, you may by the Rule of Proportion, finde out the diſtance of every Town, Vil<g ref="char:EOLhyphen"/>lage, Fort, Haven, and the like, from your platform; and alſo the diſtance between any two places there deſcri<g ref="char:EOLhyphen"/>bed. This Experiment is marvei<g ref="char:EOLhyphen"/>lous pleaſant to practiſe, and moſt exactly ſerving for the deſcription of a plaid <hi>Champion</hi> Countrey, which when you have thus traced out upon the platform, you may, by the help of Scale and Compaſſes, project in pa<g ref="char:EOLhyphen"/>per
+<pb n="119" facs="tcp:169874:73"/> or parchment with a Scale of Leagues, Miles, Furlongs, Pa<g ref="char:EOLhyphen"/>ces, or other meaſures, as liketh you beſt.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
